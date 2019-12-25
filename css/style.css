@@ -131,7 +131,7 @@ body {
   max-width: 1220px;
   margin: 0 auto;
   padding: 0 20px;
-  position:absolute;
+  position: absolute;
 }
 .outer:before,
 .outer:after {
