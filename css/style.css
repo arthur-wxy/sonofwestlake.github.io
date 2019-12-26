@@ -134,6 +134,8 @@ body {
   position: absolute;
   bottom: 0;
   top: auto;
+  left: 0;
+  right: 0;
 }
 .outer:before,
 .outer:after {
