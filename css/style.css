@@ -132,6 +132,8 @@ body {
   margin: 0 auto;
   padding: 0 20px;
   position: absolute;
+  bottom: 0;
+  top: auto;
 }
 .outer:before,
 .outer:after {
